@@ -1,0 +1,37 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar{
+	box-shadow: 2px 2px 5px #3292a6;
+	opacity: 0.9;
+	background: #fff;
+}
+
+.nav-item{
+	font-size: 1.4rem;
+	padding-right: 20px;
+}
+
+.primary-overlay{
+	
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(50,146,166,0.8);
+}
+#showcase{
+	position: relative;
+	background: url('../images/mountain.jpg');
+	min-height: 600px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.img-set{
+	padding-top: 150px;
+	width: 400px;
+	height: 500px;
+	margin-left: 70px;
+}
