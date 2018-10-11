@@ -1,0 +1,22 @@
+.bg-black{
+    background: #000;
+    color: #fff;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.port-item{
+    width: 200px;
+    height: 130px;
+    text-align:middle;
+}
+.fa{
+    font-size: 2em;
+}
+.port-item:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+    
